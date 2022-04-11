@@ -89,7 +89,7 @@ class MyFrame extends Frame implements ActionListener{
 //		tpassword.setEchoChar('*');
 		
 		//button
-		sbutton = new Button("Sumbit");
+		sbutton = new Button("Submit");
 		
 		//set size components
 		this.login.setBounds(150,30,150,30);
